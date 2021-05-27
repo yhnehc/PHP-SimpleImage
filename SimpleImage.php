@@ -1,5 +1,5 @@
 <?php
-
+namespace Saxx\simple-image;
 /**
  * File: SimpleImage.php
  *
