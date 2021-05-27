@@ -4,7 +4,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Saxx\\simple-image\\": "src/"
+            "Saxx\\simpleImage\\": "src/"
         }
     },
     "require": {
