@@ -1,0 +1,13 @@
+{
+    "name": "saxx/simple-image",
+    "description": "fork of php simple image",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Saxx\\simple-image\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^7.4|^8.0",
+    }
+}
